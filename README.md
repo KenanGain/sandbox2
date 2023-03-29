@@ -45,7 +45,7 @@ console.log("Hello World!");
 ## Table
 
 | First Heading  | Second Heading  |     |
-| -------------- | --------------- |     |
+| -------------- | --------------- | ---:|
 | Value 1        |      Value 2    |     |
 | -------------- | --------------- |     |
 
