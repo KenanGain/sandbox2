@@ -26,4 +26,13 @@ This text is *italics* and this text is **bold** and this text is both ***bold a
 2. A dot and a space after the number
 3. If you have two lines in this list item
 
+    Use four spaces to indent the next line
+   
+## Links
+
+Here is a link to [my site](https://www.youtube.com/@KnightGamer87).
+
+Properly Formatted URLs will be linked :
+
+https://www.youtube.com/@KnightGamer87
    
